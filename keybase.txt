@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/mrf
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://markferree.com
+  * I am mrf (https://keybase.io/mrf) on keybase.
+  * I have a public key with fingerprint D9C8 F615 DEAF 9109 FB37  2ADF 9DFB 3C62 C83A C589
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101165d64fc74b49ab08c6e63272ac9da011e9629536eb8c8d99871d3d445258f010a",
+            "fingerprint": "d9c8f615deaf9109fb372adf9dfb3c62c83ac589",
+            "host": "keybase.io",
+            "key_id": "9dfb3c62c83ac589",
+            "kid": "0101165d64fc74b49ab08c6e63272ac9da011e9629536eb8c8d99871d3d445258f010a",
+            "uid": "bc98e95f9002d303c3638f4e573f8f19",
+            "username": "mrf"
+        },
+        "revoke": {
+            "sig_ids": [
+                "18c4d95a499bf230fc909c5ddd478218b13bb0d863803cc55d9a3d4203b75e7d0f"
+            ]
+        },
+        "service": {
+            "hostname": "markferree.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1489511058,
+    "expire_in": 157680000,
+    "prev": "07704a115146703af30de383ad8e2b06c7d06beac1030035141eb968b2f3a258",
+    "seqno": 18,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.65
+Comment: https://keybase.io/crypto
+
+yMJrAnicrZJbaBVHHMZPYnrEgDUPrShWi0MLpQkys7OzO3M0saFEi7XipYIY9TjX
+uMacPe7uiU2OaaVibbFUUSpR6oXgg4o+2IKIeI94By3FW6sIgrRKFY0P4iWks6G+
+9bH7spf5/r/v22/m9PAhmeqKFdumfNXZuzWuuHjySSkz7xzYWAYiVB0gVwatevCm
+lykdJ/nWQIEcgAgi5BHluUb6rnAZF5BKT3vY8R0umeJ2XTPPYQR7WlBJFWPURwor
+1yUOocYSOKgDJii06KgYBYXEYhWT1HiIKM0NQ5AZgS1OGabsk/QcSTGXhDI7uCSM
+0wkbTvBYTwhC+82+5Afj/Yf+f85dGsQJyahmxDAIHYUhltjD1Lia+NhQg1LfUqyj
+Am/TVt0WGdBVByLdHrbqtNI4aLF5Y5BrBohKVzHCXcaEcTA0kkEmiVLK9amDqEBY
+CKio5VsbSYhi3GZyIBY+0b6CBiy0bGvWHshBeFrQa2MetRodRVpPkGGbDVWMwiSU
+4TK7tiRJinEuzZV0FFPxCi3y/2LyIigou0F2ol1HcRAWQA5ZpUyClItcyghCkNA6
+oL8oBpHOB6mC+B6F9kp9dHvauu9DlyNEkOv5EHODodLY7o2i2hHQkza/JzSXCGII
+sZUhLZhHhWMwt6WD9MeWF0LLtlYJb7FM212BJ6VIg65TJxZUZSqqM9k3KtOTm6ke
+VvP6PFcvHDrQyJtqnzTV94jsxEV909+WpZMzfjv7YtPzm81z1x+ZFDZPefbX7xO7
+r/R9tu/HU+vH7tx0d1RV9597On8ZvfrY0lvj5ny+4VBWbR9fXreyZvGIEdcf1V97
+8+PeLvnR0+ZZFfL4hnvbGpY+uvPBw/Ev+3ddLX+z8fGNyv6G8tzGNWtX3tkfdh+Y
+/qpfz5/csmr3+c13V6tP79dX7flVTx7oybIPBzp+kJcHGu+99f7maUMNXrX4wvVZ
+2xu+HbOr+MfaeO/Od+Z1Xjl4O4639OD37m/pnQl+rvl6xoOHa77L/p39Pr5Wajo6
+/FLfjjONxdp3L+2WlQvGrptWu//GyKmHmk53XP1p6uEaD8/+5EHtl/8AhHxa+A==
+=jk75
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mrf
+
+==================================================================
